@@ -170,22 +170,22 @@ SECTION WRAPS
 /* Header Wrap */
 
 #headerwrap {
-    background: url(../img/1\ \(124\).jpg) no-repeat center top;
+    background: url(../img/cd93a309-c3a1-4372-9797-d8fe5e732474.jpg) no-repeat center;
     margin-top: 60px;
     padding-top: 140px;
     text-align: center;
     background-attachment: relative;
-    background-position: center center;
+    /* background-position: center center; */
     min-height: 500px;
     width: 100%;
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
     background-size: 100%;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    -webkit-background-size: center;
+    -moz-background-size: center;
+    -o-background-size: center;
+    background-size: center;
 }
 
 #headerwrap h1 {
